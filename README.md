@@ -3,7 +3,7 @@ This is an enhancement of the [Intel RDT Software Package](https://github.com/in
 It includes functionalities of monitoring and tuning DDIO behavior for better I/O performance. 
 
 The corresponding paper, "Don't Forget the I/O When Allocating Your LLC" will appear in [ISCA'21](https://www.iscaconf.org/isca2021/) soon.
-We will release the code as soon as we finish the open-source process.
+We will release the code as soon as we finish the required open-source process.
 
 ## Related Publication
 
