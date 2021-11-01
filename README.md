@@ -5,7 +5,7 @@ It includes functionalities of monitoring and tuning DDIO behavior for better I/
 The corresponding paper, "Don't Forget the I/O When Allocating Your LLC" has appeared in [ISCA'21](https://www.iscaconf.org/isca2021/).
 
 We will release the code as soon as we finish the open-source process required by Intel.
-Meanwhile, please feel free to contact [Yifan Yuan](mailto:yifany3@illinos.edu) for early access possibility if you are interested. 
+Meanwhile, please feel free to contact [Yifan Yuan](mailto:yifany3@illinois.edu) for early access possibility if you are interested. 
 
 
 ## Related Publication
